@@ -1,0 +1,16 @@
+myvenv\Scripts\activate
+------------------------
+
+github
+moises.bispo@ifma.edu.br
+senha: ju.27082022
+nome de Usuário: MoisesBatista07
+
+git config --global user.name "MoisesBatista"
+git config --global user.email moises.bispo@ifma.edu.br
+
+--------------------------------------------
+superusuario
+bispo
+senha: bispo
+email: moises.bispo@ifma.edu.br
